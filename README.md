@@ -1,4 +1,4 @@
-<h1 align="center">Hey , I'm Rohit Ojha <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF4dzBseWg3d3Y4ajF3eXJycmhuM3IzOTY4MHlxZWcyd3AwMGF6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="35"></h1>
+<h1 align="center">Hey , I'm Rohit Ojha <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF4dzBseWg3d3Y4ajF3eXJycmhuM3IzOTY4MHlxZWcyd3AwMGF6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="50"></h1>
 <br>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
