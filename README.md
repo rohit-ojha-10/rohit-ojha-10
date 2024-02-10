@@ -1,7 +1,4 @@
 <h1 align="center">Hi , I'm Rohit Ojha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Intern@AegisCovenant;Computer+Science+Student;ACPC+Regionalist;Learning with each commit"></a>
-</p>
 <br>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -40,7 +37,7 @@
    </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python3&logoColor=white">
   </a>
 </p>
 
@@ -76,19 +73,19 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Node" src="https://img.shields.io/badge/NODE%20-%231572B6.svg?style=plastic&logo=NODE&logoColor=green">
+   <img alt="Node" src="https://img.shields.io/badge/nodejs%20-%231572B6.svg?style=plastic&logo=Node.js&logoColor=green">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Express" src="https://img.shields.io/badge/express%20-%231572B6.svg?style=plastic&logo=express&logoColor=white">
+    <img alt="Express" src="https://img.shields.io/badge/Express%20-%231572B6.svg?style=plastic&logo=Express&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Django" src="https://img.shields.io/badge/django-%2361DAFB.svg?style=plastic&logo=django&logoColor=black">
+    <img alt="Django" src="https://img.shields.io/badge/django-%2361DAFB.svg?style=plastic&logo=Django&logoColor=black">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/aws-%2361DAFB.svg?style=plastic&logo=aws&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS%2361DAFB.svg?style=plastic&logo=aws&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
@@ -96,11 +93,11 @@
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2361DAFB.svg?style=plastic&logo=mysql&logoColor=black">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2361DAFB.svg?style=plastic&logo=MySQL&logoColor=black">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
-        <img alt="DynamoDB" src="https://img.shields.io/badge/dynamodb-%2361DAFB.svg?style=plastic&logo=dynamodb&logoColor=yellow">
+        <img alt="DynamoDB" src="https://img.shields.io/badge/dynamodb-%2361DAFB.svg?style=plastic&logo=DynamoDB&logoColor=yellow">
  </a>
   &emsp;
 
@@ -108,8 +105,3 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/rohit-ojha-10/rohit-ojha-10/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
