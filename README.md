@@ -8,13 +8,10 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
 - 👨‍💼: I am a `SDE-Intern (Fullstack [FE-Heavy])` at [AegisCovenant](https://aegiscovenant.com/).
 - :trophy: `ACPC` Asia Regionalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I practice DSA skills at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :nerd_face: Learning `with each commit`.
-- 📂: [MY RESUME](https://flowcv.com/resume/hra5q2aq5g).
+- 📂: [Resume](https://flowcv.com/resume/hra5q2aq5g).
 <br>
 
 
