@@ -66,17 +66,14 @@
     <img alt="Express" src="https://img.shields.io/badge/Express%20-%231572B6.svg?style=plastic&logo=Express&logoColor=white">
   &emsp;
     <img alt="Django" src="https://img.shields.io/badge/django-%2361DAFB.svg?style=plastic&logo=Django&logoColor=black">
-
   &emsp;
     <img alt="AWS" src="https://img.shields.io/badge/AWS%2361DAFB.svg?style=plastic&logo=aws&logoColor=white">
-
   &emsp;
     <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?style=plastic&logo=mongodb&logoColor=green">
   &emsp;
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2361DAFB.svg?style=plastic&logo=MySQL&logoColor=black">
   &emsp;
         <img alt="DynamoDB" src="https://img.shields.io/badge/amazon-dynamodb-%2361DAFB.svg?style=plastic&logo=DynamoDB&logoColor=yellow">
-
   &emsp;
 
 </p>
