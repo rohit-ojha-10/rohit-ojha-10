@@ -35,7 +35,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python3&logoColor=white">
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> <br> Frontend Development
 <p align="center"> 
   &emsp; 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -51,7 +51,7 @@
        <img alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/30px-Typescript_logo_2020.svg.png?20221110153201">
 </p>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVnZ2dwaGE3Zm9wZThrMzFzeDBkMDFnMGE2bjFyajR3ODNxcDh0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qn74oPyaKYBpVWdA7t/200.webp" width = "150px">  </picture> Backend Development
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVnZ2dwaGE3Zm9wZThrMzFzeDBkMDFnMGE2bjFyajR3ODNxcDh0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qn74oPyaKYBpVWdA7t/200.webp" width = "150px">  </picture> <br> Backend Development
 <p align="center"> 
   &emsp; 
    <img alt="Node" src="https://img.shields.io/badge/nodejs%20-%231572B6.svg?style=for-the-badge&logo=Node.js&logoColor=green">
