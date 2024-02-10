@@ -54,7 +54,7 @@
    &emsp;
       <img alt="React" src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?style=plastic&logo=React&logoColor=black">
     &emsp;
-       <img alt="TypeScript" src="https://img.shields.io/badge/typescript.svg?style=plastic&logo=Typescript&logoColor=black">
+       <img alt="TypeScript" src="https://img.shields.io/badge/ts.svg?style=plastic&logo=ts&logoColor=black">
 
 </p>
 
