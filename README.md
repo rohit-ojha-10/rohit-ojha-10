@@ -33,8 +33,6 @@
   &emsp;
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-  &emsp;
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
    &emsp;
       <img alt="React" src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?style=for-the-badge&logo=React&logoColor=black">
