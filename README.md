@@ -51,7 +51,7 @@
        <img alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/30px-Typescript_logo_2020.svg.png?20221110153201">
 </p>
 
-<picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVnZ2dwaGE3Zm9wZThrMzFzeDBkMDFnMGE2bjFyajR3ODNxcDh0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qn74oPyaKYBpVWdA7t/200.webp" width = 70px>  </picture> Backend Development
+<picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVnZ2dwaGE3Zm9wZThrMzFzeDBkMDFnMGE2bjFyajR3ODNxcDh0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qn74oPyaKYBpVWdA7t/200.webp" width = "60">  </picture> Backend Development
 <p align="center"> 
   &emsp; 
    <img alt="Node" src="https://img.shields.io/badge/nodejs%20-%231572B6.svg?style=for-the-badge&logo=Node.js&logoColor=green">
