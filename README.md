@@ -19,8 +19,7 @@
 	<a href="https://www.linkedin.com/in/rohit-ojha-992998203/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-##<h2>🛠️ My Skill</h2>
-
+<h2>🛠️ Skills</h2>
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
