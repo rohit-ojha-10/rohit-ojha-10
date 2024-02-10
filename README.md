@@ -58,9 +58,9 @@
   &emsp;
     <img alt="Express" src="https://img.shields.io/badge/Express%20-%231572B6.svg?style=plastic&logo=Express&logoColor=white">
   &emsp;
-    <img alt="Django" src="https://img.shields.io/badge/django-%2361DAFB.svg?style=plastic&logo=Django&logoColor=black">
+    <img alt="Django" src="https://img.shields.io/badge/django-%2361DAFB.svg?style=plastic&logo=Django&logoColor=white">
   &emsp;
-    <img alt="AWS" src="https://img.shields.io/badge/AWS%2361DAFB.svg?style=plastic&logo=aws&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/amazon-web-services%2361DAFB.svg?style=plastic&logo=amazon-web-services&logoColor=white">
   &emsp;
     <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?style=plastic&logo=mongodb&logoColor=green">
   &emsp;
