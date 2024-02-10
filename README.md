@@ -66,7 +66,7 @@
   &emsp;
         <img alt="DynamoDB" src="https://img.shields.io/badge/amazon-dynamodb-%2361DAFB.svg?style=for-the-badge&logo=DynamoDB&logoColor=yellow">
   &emsp;
-        <img alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/20px-Amazon_Web_Services_Logo.svg.png">
+        <img alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/30px-Amazon_Web_Services_Logo.svg.png">
   &emsp;
 
 </p>
