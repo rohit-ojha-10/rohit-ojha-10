@@ -54,40 +54,29 @@
    &emsp;
       <img alt="React" src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?style=plastic&logo=React&logoColor=black">
     &emsp;
-       <img alt="TypeScript" src="https://img.shields.io/badge/ts.svg?style=plastic&logo=ts&logoColor=black">
+       <img alt="TypeScript" src="https://img.shields.io/badge/ts.svg?style=plastic&logo=TS&logoColor=blue">
 
 </p>
 
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Backend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="Node" src="https://img.shields.io/badge/nodejs%20-%231572B6.svg?style=plastic&logo=Node.js&logoColor=green">
-  </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="Express" src="https://img.shields.io/badge/Express%20-%231572B6.svg?style=plastic&logo=Express&logoColor=white">
-  </a> 
   &emsp;
-  <a href="https://www.python.org" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/django-%2361DAFB.svg?style=plastic&logo=Django&logoColor=black">
-  </a>
+
   &emsp;
-  <a href="https://www.python.org" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/AWS%2361DAFB.svg?style=plastic&logo=aws&logoColor=white">
-  </a>
+
   &emsp;
-  <a href="https://www.python.org" target="_blank">
     <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?style=plastic&logo=mongodb&logoColor=green">
-  </a>
   &emsp;
-  <a href="https://www.python.org" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2361DAFB.svg?style=plastic&logo=MySQL&logoColor=black">
-  </a>
   &emsp;
-  <a href="https://www.python.org" target="_blank">
         <img alt="DynamoDB" src="https://img.shields.io/badge/amazon-dynamodb-%2361DAFB.svg?style=plastic&logo=DynamoDB&logoColor=yellow">
- </a>
+
   &emsp;
 
 </p>
