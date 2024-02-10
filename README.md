@@ -65,7 +65,7 @@
     </a>
     &emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> 
-       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript.svg?style=plastic&logo=TypeScript&logoColor=black">
+       <img alt="TypeScript" src="https://img.shields.io/badge/typescript.svg?style=plastic&logo=TypeScript&logoColor=black">
      </a>
 </p>
 
@@ -97,7 +97,7 @@
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
-        <img alt="DynamoDB" src="https://img.shields.io/badge/dynamodb-%2361DAFB.svg?style=plastic&logo=DynamoDB&logoColor=yellow">
+        <img alt="DynamoDB" src="https://img.shields.io/badge/amazon-dynamodb-%2361DAFB.svg?style=plastic&logo=DynamoDB&logoColor=yellow">
  </a>
   &emsp;
 
