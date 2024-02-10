@@ -23,7 +23,7 @@
   &emsp;
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python3&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python3&logoColor=white">
 </p>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM0ZTh5ODhoNTQ1ajE2eGVhYnF6MWtic2Q0cnUzZmJweHVxNzVleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/luOncmGGhXtMh3gVQB/giphy.gif" width = "200px">  </picture> <br> Frontend Development
