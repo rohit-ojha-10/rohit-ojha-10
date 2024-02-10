@@ -68,7 +68,7 @@
     </a>
     &emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> 
-       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript.svg?style=plastic&logo=javascript&logoColor=black">
+       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript.svg?style=plastic&logo=TypeScript&logoColor=black">
      </a>
 </p>
 
@@ -76,11 +76,11 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Node" src="https://img.shields.io/badge/node.svg?style=plastic&logo=node&logoColor=white">
+   <img alt="Node" src="https://img.shields.io/badge/NODE%20-%231572B6.svg?style=plastic&logo=NODE&logoColor=green">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Express" src="https://img.shields.io/badge/express%20-%231572B6.svg?style=plastic&logo=express3&logoColor=white">
+    <img alt="Express" src="https://img.shields.io/badge/express%20-%231572B6.svg?style=plastic&logo=express&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
