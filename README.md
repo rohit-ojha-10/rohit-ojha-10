@@ -60,8 +60,6 @@
   &emsp;
     <img alt="Django" src="https://img.shields.io/badge/django-%2361DAFB.svg?style=plastic&logo=Django&logoColor=white">
   &emsp;
-    <img alt="AWS" src="https://img.shields.io/badge/amazon-web-services%2361DAFB.svg?style=plastic&logo=aws&logoColor=white">
-  &emsp;
     <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?style=plastic&logo=mongodb&logoColor=green">
   &emsp;
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2361DAFB.svg?style=plastic&logo=MySQL&logoColor=black">
