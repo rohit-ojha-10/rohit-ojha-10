@@ -65,7 +65,7 @@
     </a>
     &emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> 
-       <img alt="TypeScript" src="https://img.shields.io/badge/typescript.svg?style=plastic&logo=TypeScript&logoColor=black">
+       <img alt="TypeScript" src="https://img.shields.io/badge/typescript.svg?style=plastic&logo=Typescript&logoColor=black">
      </a>
 </p>
 
