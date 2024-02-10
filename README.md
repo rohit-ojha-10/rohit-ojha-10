@@ -35,7 +35,7 @@
   &emsp;
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
    &emsp;
-      <img alt="React" src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=blue">
+      <img alt="React" src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=white">
     &emsp;
        <img alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/30px-Typescript_logo_2020.svg.png?20221110153201">
 </p>
