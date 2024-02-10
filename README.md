@@ -91,11 +91,11 @@
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/aws-%2361DAFB.svg?style=plastic&logo=aws&logoColor=black">
+    <img alt="AWS" src="https://img.shields.io/badge/aws-%2361DAFB.svg?style=plastic&logo=aws&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?style=plastic&logo=mongodb&logoColor=black">
+    <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?style=plastic&logo=mongodb&logoColor=green">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
@@ -103,7 +103,7 @@
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
-        <img alt="DynamoDB" src="https://img.shields.io/badge/dynamodb-%2361DAFB.svg?style=plastic&logo=dynamodb&logoColor=black">
+        <img alt="DynamoDB" src="https://img.shields.io/badge/dynamodb-%2361DAFB.svg?style=plastic&logo=dynamodb&logoColor=yellow">
  </a>
   &emsp;
 
