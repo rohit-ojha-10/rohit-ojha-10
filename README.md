@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=6000&color=44F729&vCenter=true&lines=writing+code+with+chai+and+testing+it+with+mocha;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=10000&color=44F729&vCenter=true&lines=writing+code+with+chai+and+testing+it+with+mocha;)
 <h1 align="center">Hey Welcome, I'm Rohit! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF4dzBseWg3d3Y4ajF3eXJycmhuM3IzOTY4MHlxZWcyd3AwMGF6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="60"></h1>
 <br>
 <br>
