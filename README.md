@@ -61,7 +61,7 @@
    </a>
    &emsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/React" target="_blank"> 
-      <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+      <img alt="React" src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?style=plastic&logo=React&logoColor=black">
     </a>
     &emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> 
