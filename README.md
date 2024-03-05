@@ -7,7 +7,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 👨‍💼:`SDE-Intern (Fullstack [FE-Heavy])` at [AegisCovenant](https://aegiscovenant.com/).
-- :trophy: `ACPC` Asia Regionalist.
+- 👨‍💼:`Ex-SDE-Intern (Fullstack [FE-Heavy])` at [SnoozeBUZZ](https://snoozebuzz.com/).
+- :trophy: `ICPC` Asia Regionalist.
 - :nerd_face: Learning `with each commit`.
 - 📂: [Resume](https://flowcv.com/resume/hra5q2aq5g).
 <br>
