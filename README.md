@@ -1,71 +1,64 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=6000&color=74E291&vCenter=true&lines=coding+with+chai++testing+with+mocha;)
-<h1 align="center">Hey Welcome, I'm Rohit! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF4dzBseWg3d3Y4ajF3eXJycmhuM3IzOTY4MHlxZWcyd3AwMGF6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="60"></h1>
-<br>
-<br>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h1 align="center">Hi, I'm Rohit Ojha 👋</h1>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-- 👨‍💼:`Associate-SDE (Fullstack [FE-Heavy])` at [AegisCovenant](https://aegiscovenant.com/).
-- 👨‍💼:`SDE-Intern (Fullstack [FE-Heavy])` at [AegisCovenant](https://aegiscovenant.com/).
-- 👨‍💼:`Ex-SDE-Intern (Fullstack [FE-Heavy])` at [SnoozeBUZZ](https://snoozebuzz.com/).
-- :trophy: `ICPC` Asia Regionalist.
-- :nerd_face: Learning `with each commit`.
-- 📂: [Resume](https://flowcv.com/resume/hra5q2aq5g).
-<br>
-
-
-
-## 🛠️ Skills
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  &emsp;
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python3&logoColor=white">
-</p>
-
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM0ZTh5ODhoNTQ1ajE2eGVhYnF6MWtic2Q0cnUzZmJweHVxNzVleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/luOncmGGhXtMh3gVQB/giphy.gif" width = "200px">  </picture> <br> Frontend Development
-<p align="center"> 
-  &emsp; 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  &emsp;
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  &emsp;
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-   &emsp;
-      <img alt="React" src="https://img.shields.io/badge/react%20-%2340A2E3.svg?style=for-the-badge&logo=react&logoColor=white">
-    &emsp;
-       <img alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/30px-Typescript_logo_2020.svg.png?20221110153201">
-</p>
-
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVnZ2dwaGE3Zm9wZThrMzFzeDBkMDFnMGE2bjFyajR3ODNxcDh0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qn74oPyaKYBpVWdA7t/200.webp" width = "200px">  </picture> <br> Backend Development
-<p align="center"> 
-  &emsp; 
-   <img alt="Node" src="https://img.shields.io/badge/nodejs%20-%231572B6.svg?style=for-the-badge&logo=Node.js&logoColor=green">
-  &emsp;
-    <img alt="Express" src="https://img.shields.io/badge/Express%20-%231572B6.svg?style=for-the-badge&logo=Express&logoColor=white">
-  &emsp;
-    <img alt="Django" src="https://img.shields.io/badge/django-%2361DAFB.svg?style=for-the-badge&logo=Django&logoColor=white">
-  &emsp;
-    <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?style=for-the-badge&logo=mongodb&logoColor=green">
-  &emsp;
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2361DAFB.svg?style=for-the-badge&logo=MySQL&logoColor=black">
-  &emsp;
-        <img alt="DynamoDB" src="https://img.shields.io/badge/amazon-dynamodb-%2361DAFB.svg?style=for-the-badge&logo=DynamoDB&logoColor=yellow">
-  &emsp;
-        <img alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/30px-Amazon_Web_Services_Logo.svg.png">
-  &emsp;
-
-</p>
-
-<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="150px"> </picture>
 <p align="center">
-	<a href="mailto:rohit.ojha22feb2002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/rohit-ojha-10"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rohit-ojha-992998203/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <i>Full-Stack Developer | JavaScript Enthusiast | ICPC Asia Regionalist</i>
 </p>
-</br></br>
-	
+
+---
+
+## 👨‍💼 About Me
+
+- 🔭 **Associate Software Engineer** at [AegisCovenant](https://aegiscovenant.com/) — Fullstack, Frontend-Heavy.
+- 🌱 Constantly learning & improving with each commit.
+- 🎯 Passionate about building scalable web apps and improving user experiences.
+- 🏆 ICPC Asia Regionalist, 2022 — Mathura Site.
+- 📄 [My Resume](https://flowcv.com/resume/hra5q2aq5g)
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
+
+### 🧩 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### 🧪 Backend & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-ojha-10&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-ojha-10&theme=github-dark&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:rohit.ojha22feb2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/rohit-ojha-10"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rohit-ojha-992998203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
